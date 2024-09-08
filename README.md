@@ -15,6 +15,12 @@ Creator of Playground Mayhem (Available now Steam)
 <a href="https://store.steampowered.com/app/2972530/Playground_Mayhem/" target="blank"><img align="center" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2972530/header.jpg?t=1719294968" alt="Playground Mayhem" height="200" width="400" /></a>
 </p>
 
+Front-end website developer of
+<ul>
+  <li>Rush App</li>
+  <li>LukCoin</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=61563750326342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paisandev facebook" height="30" width="40" /></a>
