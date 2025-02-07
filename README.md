@@ -17,8 +17,12 @@ Creator of Playground Mayhem (Available now Steam)
 
 Front-end website developer of
 <ul>
+  <li>Project Bogblog (Unannounced)</li>
+  Content management website
+  <li>Project Funnuu (Unannounced)</li>
+  Funnel site maker website
   <li>Project Bounty</li>
-  Missing Case locate website project.
+  Missing Case locate website side project.
   <li>Rush App</li>
   Restaurant booking website freelance project.
   <li>LukCoin</li>
