@@ -1,5 +1,5 @@
 <h1 align="center">Good day Citizen 👋, I'm Ratchanon Paisan</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">A frontend developer from Thailand</h3>
 
 - 🔭 I’m currently working on projects call **Funnuu ,Bokblog and more to come**
 
