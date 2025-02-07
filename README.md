@@ -17,8 +17,12 @@ Creator of Playground Mayhem (Available now Steam)
 
 Front-end website developer of
 <ul>
+  <li>Project Bounty</li>
+  Missing Case locate website project.
   <li>Rush App</li>
+  Restaurant booking website freelance project.
   <li>LukCoin</li>
+  Crypto sentiment analysis website project.
 </ul>
 
 <h3 align="left">Connect with me:</h3>
