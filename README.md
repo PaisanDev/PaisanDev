@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love playing Games and Airsoft**
 
-<h2 align="center">"If it's boring, why do it?"</h2>
+<h5 align="center">"If it's boring, why do it?"</h2>
 
 <h3 align="left">Past Projects</h3>
 Creator of Playground Mayhem (Available now Steam)
