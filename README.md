@@ -1,7 +1,7 @@
 <h1 align="center">Good day Citizen 👋, I'm Ratchanon Paisan</h1>
 <h3 align="center">A frontend developer from Thailand</h3>
 
-- 🔭 I’m currently working on projects call **Funnuu ,Bokblog and more to come**
+- 🔭 I’m currently working on projects call **Funnuu ,Bogblog and more to come**
 
 - 🤝 I’m looking gigs such as **Front-end website developer**
 
@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I love playing Games and Airsoft**
 
 <h3 align="left">Past Projects</h3>
-Creator of Playground Mayhem (Available now Steam)
+Creator of Playground Mayhem (Available now on Steam)
 <p align="left">
 <a href="https://store.steampowered.com/app/2972530/Playground_Mayhem/" target="blank"><img align="center" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2972530/header.jpg?t=1719294968" alt="Playground Mayhem" height="200" width="400" /></a>
 </p>
